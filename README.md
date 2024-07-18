@@ -1,1 +1,2 @@
-# condeve
+# ConDeVe
+Contiguous Depth Vectors
